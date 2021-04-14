@@ -3,5 +3,5 @@ bread
 
 # Ingredients
 milk
-egg
+2 egg
 salt
